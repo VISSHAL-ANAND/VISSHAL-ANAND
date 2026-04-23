@@ -1,3 +1,13 @@
+<!-- 🔥 Ultra Thin Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,300:0A192F&height=200&section=header&text=VISSHAL_ANAND&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+</p>
+
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%7C+IoT+%7C+Distributed+Systems;Building+Real-World+Tech;Learning+by+Building+🚀" />
+</p>
+
 # 💫 About Me
 
 <table>
@@ -22,7 +32,7 @@ I focus on understanding systems **from the ground up** — combining backend in
 
 <td width="35%" align="right">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="210"/>
 
 </td>
 </tr>
@@ -43,9 +53,7 @@ I focus on understanding systems **from the ground up** — combining backend in
 ## ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp,java,react,flutter,fastapi,flask,mongodb,mysql,aws,gcp,firebase,docker,git,linux,raspberrypi,opencv" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,react,flutter,fastapi,flask,mongodb,mysql,aws,gcp,firebase,docker,git,linux,raspberrypi,opencv" />
 </p>
 
 ---
@@ -53,14 +61,12 @@ I focus on understanding systems **from the ground up** — combining backend in
 ## 🧩 Tools & Technologies
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/MQTT-3C5280?style=flat&logo=eclipsemosquitto&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zigbee-EB0443?style=flat&logo=zigbee&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat&logo=eclipsemosquitto&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=flat&logo=zigbee&logoColor=white"/>
 </p>
 
 ---
@@ -68,8 +74,8 @@ I focus on understanding systems **from the ground up** — combining backend in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=VISSHAL-ANAND&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=VISSHAL-ANAND&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=VISSHAL-ANAND&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=VISSHAL-ANAND&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
@@ -77,3 +83,15 @@ I focus on understanding systems **from the ground up** — combining backend in
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building things that actually matter.</i>
+</p>
