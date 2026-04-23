@@ -1,122 +1,80 @@
-# 👋 Hey, I'm Visshal
+# hey, i'm visshal 👋
 
-🚀 First-year engineering student building real-world AI, IoT, and distributed systems  
-💡 Focused on solving practical problems using intelligent and scalable tech  
+first year engineering student trying to build cool stuff and figure things out as i go  
 
----
-
-## 🧠 Core Interests
-- 🤖 Artificial Intelligence & Computer Vision  
-- 📡 IoT Systems & Edge Computing  
-- 🌐 Full Stack Development  
-- ⚙️ Distributed Systems & Networking  
+i like working on things that are actually useful — mostly around ai, iot, and systems
 
 ---
 
-## ⚙️ Tech Stack
-**Languages**
-- Python, JavaScript, C/C++
-
-**Frameworks & Tools**
-- FastAPI, OpenCV, Scikit-learn  
-- NumPy, SciPy, Matplotlib  
-
-**Hardware & Systems**
-- Raspberry Pi, LoRa, Sensors  
-- Edge AI (TinyML)  
-
-**Other**
-- System Design, APIs, Optimization Algorithms  
+## what i'm into
+- ai + computer vision  
+- iot (raspberry pi, sensors, lora stuff)  
+- building random projects that turn into something real  
+- learning by breaking things and fixing them  
 
 ---
 
-## 🚀 Featured Projects
+## stuff i've built
 
-### 🎤 AI Mock Interviewer
-AI-powered platform that simulates real interview scenarios with dynamic question generation and answer evaluation.
+### ai mock interviewer  
+made a small platform that simulates interview questions and gives feedback using ai  
 
-- Real-time AI-generated questions  
-- Answer evaluation using LLM APIs  
-- Interactive UI for practice  
-- Tech: Python, FastAPI, JavaScript  
+- generates questions in real-time  
+- evaluates answers using llm apis  
+- simple ui to practice  
 
-🔗 Link: (add your repo)
-
----
-
-### 🏥 Smart Adaptive Image Compression for Tele-Health
-Mathematically-driven system for compressing medical images under strict bandwidth constraints while preserving diagnostic quality.
-
-- PDE-based denoising (Anisotropic Diffusion)  
-- DCT & PCA for high-efficiency compression  
-- Predictive transmission model (T = S / B)  
-- Optimization using Least Squares Regression  
-
-**Impact:**
-- 12:1 compression ratio  
-- SSIM > 0.85  
-- 65% reduction in upload failures in low-bandwidth networks  
-
-🔗 Link: (add repo)
+tech: python, fastapi, js  
 
 ---
 
-### 🌲 Forest Guardian: Edge-AI Poaching Detector
-Low-power edge AI system for detecting illegal activities in remote areas using acoustic classification.
+### tele-health image compression  
+this one was more math heavy  
 
-- CNN-based real-time sound classification  
-- LoRa for long-range alerts  
-- Wi-Fi cloud integration + live dashboard  
-- Built with Raspberry Pi + TinyML  
+idea was to send medical images over slow networks without killing the quality  
 
-🔗 Link: (add repo)
+- used pde-based denoising  
+- dct + pca for compression  
+- simple model to predict upload time (T = S / B)  
 
----
-
-### 🌐 Smart Health Habit Coach
-AI-driven web platform to track and improve daily health habits.
-
-- Personalized AI recommendations  
-- Habit tracking dashboard  
-- Clean and engaging UI  
-
-🔗 Link: (add repo)
+worked surprisingly well on low bandwidth  
 
 ---
 
-### 🔐 Google OAuth Authentication System
-Secure authentication system for web apps using Google OAuth.
+### forest guardian (ongoing)  
+trying to build a system that can detect illegal activity (like chainsaws/gunshots) using sound  
 
-- OAuth 2.0 integration  
-- Token & session management  
-- Backend authentication flow using FastAPI  
-
-🔗 Link: (add repo)
+- running a small model on raspberry pi  
+- using lora for long range alerts  
+- still experimenting with this  
 
 ---
 
-### 📡 Resilient Multi-Agent Mesh Network Simulator
-Simulation of a decentralized wireless sensor network for disaster scenarios.
+### mesh network simulator  
+simulated a network of nodes that can self-heal in disaster scenarios  
 
-- Leader election using node fitness heuristics  
-- Dijkstra-based real-time routing  
-- Fault-tolerant self-healing network  
-- Real-time visualization with Matplotlib  
-
-🔗 Link: (add repo)
+- leader election logic  
+- routing using dijkstra  
+- built a small visual dashboard  
 
 ---
 
-## 📈 2026 Goals
-- Build production-level AI + IoT systems  
-- Contribute to open-source  
-- Deep dive into distributed systems & edge intelligence  
+### other small stuff
+- google oauth auth system  
+- health habit tracking app (wip)  
 
 ---
 
-## 📫 Connect
-- LinkedIn: (add later)
+## tech i use
+python, javascript, a bit of c/c++  
+fastapi, opencv, numpy  
+raspberry pi, lora  
 
 ---
 
-⭐ *I build things that actually solve problems.*
+## right now
+just trying to get better and build more real projects  
+
+---
+
+## reach out
+(i’ll add this later)
